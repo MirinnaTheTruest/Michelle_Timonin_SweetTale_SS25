@@ -1,0 +1,30 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Michelle/FH/5.semester/Game dev/SweetTale/SweetTale/Content/MyGame/Map/MainMenu.umap",
+				"D:/Michelle/FH/5.semester/Game dev/SweetTale/SweetTale/Content/MyGame/Sound/S_retro-coin.uasset",
+				"D:/Michelle/FH/5.semester/Game dev/SweetTale/SweetTale/Content/MyGame/Sound/S_cute-cuddles.uasset",
+				"D:/Michelle/FH/5.semester/Game dev/SweetTale/SweetTale/Content/MyGame/Sound/S_c-chord.uasset",
+				"D:/Michelle/FH/5.semester/Game dev/SweetTale/SweetTale/Content/MyGame/Character/PHYS_pudding_princess_PhysicsAsset.uasset",
+				"D:/Michelle/FH/5.semester/Game dev/SweetTale/SweetTale/Content/MyGame/Character/SK_pudding_princess.uasset",
+				"D:/Michelle/FH/5.semester/Game dev/SweetTale/SweetTale/Content/MyGame/Character/SKEL_pudding_princess_Skeleton.uasset",
+				"D:/Michelle/FH/5.semester/Game dev/SweetTale/SweetTale/Content/MyGame/Textures/Dirt_path.uasset",
+				"D:/Michelle/FH/5.semester/Game dev/SweetTale/SweetTale/Content/MyGame/Textures/Keks_wand.uasset",
+				"D:/Michelle/FH/5.semester/Game dev/SweetTale/SweetTale/Content/MyGame/Textures/Dirt_Path1.uasset",
+				"D:/Michelle/FH/5.semester/Game dev/SweetTale/SweetTale/Content/MyGame/Textures/KeksWand.uasset",
+				"D:/Michelle/FH/5.semester/Game dev/SweetTale/SweetTale/Content/MyGame/Textures/Dirt.uasset",
+				"D:/Michelle/FH/5.semester/Game dev/SweetTale/SweetTale/Content/MyGame/Textures/grass.uasset",
+				"D:/Michelle/FH/5.semester/Game dev/SweetTale/SweetTale/Content/MyGame/Textures/Dirt1.uasset",
+				"D:/Michelle/FH/5.semester/Game dev/SweetTale/SweetTale/Content/MyGame/Textures/Gras_Textur.uasset",
+				"D:/Michelle/FH/5.semester/Game dev/SweetTale/SweetTale/Content/MyGame/Character/Checker.uasset",
+				"D:/Michelle/FH/5.semester/Game dev/SweetTale/SweetTale/Content/MyGame/Character/Anim_pudding_princess_Run.uasset",
+				"D:/Michelle/FH/5.semester/Game dev/SweetTale/SweetTale/Content/MyGame/Character/Anim_pudding_princess_Idle.uasset",
+				"D:/Michelle/FH/5.semester/Game dev/SweetTale/SweetTale/Content/MyGame/Character/Anim_pudding_princess_Jump.uasset"
+			]
+		}
+	]
+}
