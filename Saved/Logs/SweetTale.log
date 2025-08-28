@@ -3468,3 +3468,400 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.08.28-11.31.40:005][808]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6895.747070
 [2025.08.28-11.31.40:998][811]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.08.28-11.31.40:998][811]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6896.415527, Update Interval: 317.340607
+[2025.08.28-11.35.15:442][848]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: dbd...bfe
+[2025.08.28-11.35.15:442][848]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.8 RefreshExpires: 1.549e+07
+[2025.08.28-11.35.16:441][851]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: dbd...bfe Access[Expires: 2025.08.28-13.35.16 Remaining: 7200.67] Refresh[Expires: 2026-02-23T18:36:55.602Z Remaining: 15490899.60] State: Valid
+[2025.08.28-11.37.20:871][133]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SkeletalMesh_64.svg'. File could not be found
+[2025.08.28-11.37.20:878][134]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2025.08.28-11.37.20:878][134]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_21'.
+[2025.08.28-11.37.20:914][135]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2025.08.28-11.37.20:915][135]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_22'.
+[2025.08.28-11.37.20:933][136]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_23
+[2025.08.28-11.37.20:933][136]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_23'.
+[2025.08.28-11.37.20:965][138]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_24
+[2025.08.28-11.37.20:965][138]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_24'.
+[2025.08.28-11.37.20:982][139]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_25
+[2025.08.28-11.37.20:982][139]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_25'.
+[2025.08.28-11.37.21:016][141]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_26
+[2025.08.28-11.37.21:017][141]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_26'.
+[2025.08.28-11.37.21:026][141]LogScript: Warning: Accessed None trying to read property PuddingPrincess
+	ABP_PuddingPrincess_C /Engine/Transient.World_26:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_PuddingPrincess_C_0
+	Function /Game/MyGame/Character/ABP_PuddingPrincess.ABP_PuddingPrincess_C:ExecuteUbergraph_ABP_PuddingPrincess:00FF
+[2025.08.28-11.37.21:026][141]LogScript: Warning: Accessed None trying to read property PuddingPrincess
+	ABP_PuddingPrincess_C /Engine/Transient.World_26:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_PuddingPrincess_C_0
+	Function /Game/MyGame/Character/ABP_PuddingPrincess.ABP_PuddingPrincess_C:ExecuteUbergraph_ABP_PuddingPrincess:0170
+[2025.08.28-11.37.21:026][141]LogScript: Warning: Accessed None
+	ABP_PuddingPrincess_C /Engine/Transient.World_26:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_PuddingPrincess_C_0
+	Function /Game/MyGame/Character/ABP_PuddingPrincess.ABP_PuddingPrincess_C:ExecuteUbergraph_ABP_PuddingPrincess:0185
+[2025.08.28-11.37.27:141][861]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyGame/Character/BP_PuddingPrincess.BP_PuddingPrincess
+[2025.08.28-11.37.27:142][861]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_27
+[2025.08.28-11.37.27:142][861]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_27'.
+[2025.08.28-11.37.49:244][ 49]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7264.964355
+[2025.08.28-11.37.49:411][ 69]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.28-11.37.49:411][ 69]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7265.122070, Update Interval: 348.603180
+[2025.08.28-11.38.04:101][722]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyGame/Environment/BP_LevelEnd.BP_LevelEnd
+[2025.08.28-11.38.04:101][722]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_28
+[2025.08.28-11.38.04:101][722]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_28'.
+[2025.08.28-11.38.37:224][346]LogDerivedDataCache: C:/Users/miche/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.08.28-11.40.55:610][ 49]LogBlueprint: Error: [AssetLog] D:\Michelle\FH\5.semester\Game dev\SweetTale\SweetTale\Content\MyGame\Character\BP_PuddingPrincess.uasset: [Compiler] This blueprint (self) is not a PlayerController, therefore ' Target ' must have a connection.
+[2025.08.28-11.40.55:612][ 49]LogBlueprint: Error: [AssetLog] D:\Michelle\FH\5.semester\Game dev\SweetTale\SweetTale\Content\MyGame\Character\BP_PuddingPrincess.uasset: [Compiler] Variable node  Set bShowMouseCursor  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2025.08.28-11.40.55:728][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2025.08.28-11.41.38:264][980]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.08.28-11.41.47:299][ 35]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.28-11.41.47:308][ 35]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.28-11.41.47:308][ 35]LogPlayLevel: Creating play world package: /Game/MyGame/Map/UEDPIE_0_MainMenu
+[2025.08.28-11.41.47:309][ 35]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001137s)
+[2025.08.28-11.41.47:309][ 35]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyGame/Map/MainMenu.MainMenu to /Game/MyGame/Map/UEDPIE_0_MainMenu.MainMenu (0.001175s)
+[2025.08.28-11.41.47:327][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.08.28-11.41.47:332][ 35]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2025.08.28-11.41.47:333][ 35]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/MyGame/Map/UEDPIE_0_MainMenu.MainMenu'.
+[2025.08.28-11.41.47:333][ 35]LogPlayLevel: PIE: World Init took: (0.001441s)
+[2025.08.28-11.41.47:334][ 35]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2025.08.28-11.41.47:334][ 35]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.28-11.41.47:334][ 35]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.28-11.41.47:334][ 35]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.28-11.41.47:334][ 35]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.28-11.41.47:334][ 35]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.28-11.41.47:334][ 35]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.28-11.41.47:334][ 35]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.28-11.41.47:334][ 35]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.28-11.41.47:334][ 35]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.28-11.41.47:334][ 35]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.28-11.41.47:334][ 35]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.28-11.41.47:336][ 35]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.28-11.41.47:352][ 35]LogAudioMixer: Display: Using Audio Hardware Device Lautsprecher (High Definition Audio Device)
+[2025.08.28-11.41.47:352][ 35]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.28-11.41.47:352][ 35]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.28-11.41.47:352][ 35]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.28-11.41.47:353][ 35]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2025.08.28-11.41.47:353][ 35]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2025.08.28-11.41.47:355][ 35]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2025.08.28-11.41.47:355][ 35]LogInit: FAudioDevice initialized with ID 15.
+[2025.08.28-11.41.47:355][ 35]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2025.08.28-11.41.47:355][ 35]LogAudio: Display: Audio Device (ID: 15) registered with world 'MainMenu'.
+[2025.08.28-11.41.47:355][ 35]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2025.08.28-11.41.47:362][ 35]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.08.28-11.41.47:362][ 35]LogWorld: Bringing World /Game/MyGame/Map/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2025.08.28-13.41.47
+[2025.08.28-11.41.47:362][ 35]LogWorld: Bringing up level for play took: 0.000396
+[2025.08.28-11.41.47:365][ 35]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2025.08.28-11.41.47:367][ 35]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(968)]!
+[2025.08.28-11.41.47:367][ 35]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.08.28-11.41.47:367][ 35]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.08.28-11.41.47:368][ 35]PIE: Server logged in
+[2025.08.28-11.41.47:369][ 35]PIE: Play in editor total start time 0,061 seconds.
+[2025.08.28-11.41.48:367][153]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/MyGame/Map/MainLevel"
+[2025.08.28-11.41.48:367][153]LogNet: Browse: /Game/MyGame/Map/MainLevel
+[2025.08.28-11.41.48:367][153]LogLoad: LoadMap: /Game/MyGame/Map/MainLevel
+[2025.08.28-11.41.48:367][153]LogWorld: BeginTearingDown for /Game/MyGame/Map/UEDPIE_0_MainMenu
+[2025.08.28-11.41.48:368][153]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.08.28-11.41.48:368][153]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.28-11.41.48:436][153]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.28-11.41.48:438][153]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.08.28-11.41.48:440][153]LogStreaming: Display: FlushAsyncLoading(500): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.28-11.41.48:505][153]LogAudio: Display: Audio Device (ID: 15) registered with world 'MainLevel'.
+[2025.08.28-11.41.48:505][153]LogChaosDD: Creating Chaos Debug Draw Scene for world MainLevel
+[2025.08.28-11.41.48:506][153]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/MyGame/Map/UEDPIE_0_MainLevel.MainLevel'.
+[2025.08.28-11.41.48:506][153]LogPlayLevel: PIE: World Init took: (0.001289s)
+[2025.08.28-11.41.48:506][153]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.08.28-11.41.48:530][153]LogWorld: Bringing World /Game/MyGame/Map/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2025.08.28-13.41.48
+[2025.08.28-11.41.48:531][153]LogWorld: Bringing up level for play took: 0.023992
+[2025.08.28-11.41.48:533][153]LogLoad: Took 0.166095 seconds to LoadMap(/Game/MyGame/Map/MainLevel)
+[2025.08.28-11.41.48:533][153]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/MyGame/Map/MainLevel
+[2025.08.28-11.41.49:546][252]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.28-11.41.49:546][252]LogWorld: BeginTearingDown for /Game/MyGame/Map/UEDPIE_0_MainLevel
+[2025.08.28-11.41.49:546][252]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2025.08.28-11.41.49:548][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.28-11.41.49:552][252]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.28-11.41.49:557][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.28-11.41.49:573][252]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.28-11.41.49:573][252]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2025.08.28-11.41.49:573][252]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2025.08.28-11.41.49:575][252]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2025.08.28-11.41.49:584][252]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.08.28-11.41.49:656][253]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2025.08.28-11.42.23:350][882]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.08.28-11.42.23:351][882]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MyGame/Map/MainMenu' took 0.020
+[2025.08.28-11.42.23:351][882]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MyGame/Character/BP_PuddingPrincess] ([2] browsable assets)...
+[2025.08.28-11.42.23:352][882]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_29
+[2025.08.28-11.42.23:352][882]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_29'.
+[2025.08.28-11.42.23:438][882]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/MyGame/Character/BP_PuddingPrincess.BP_PuddingPrincess_C]
+[2025.08.28-11.42.23:448][882]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MyGame/Character/BP_PuddingPrincess.BP_PuddingPrincess]
+[2025.08.28-11.42.23:448][882]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyGame/Character/BP_PuddingPrincess]
+[2025.08.28-11.42.23:476][882]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyGame/Character/BP_PuddingPrincess_Auto6
+[2025.08.28-11.42.23:476][882]LogSavePackage: Moving '../../../../../FH/5.semester/Game dev/SweetTale/SweetTale/Saved/BP_PuddingPrincess_Auto613B86DB3461D49BF34ED958E1264BF1F.tmp' to '../../../../../FH/5.semester/Game dev/SweetTale/SweetTale/Saved/Autosaves/Game/MyGame/Character/BP_PuddingPrincess_Auto6.uasset'
+[2025.08.28-11.42.23:477][882]LogFileHelpers: Auto-saving content packages took 0.125
+[2025.08.28-11.43.32:000][203]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.28-11.43.32:008][203]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.28-11.43.32:008][203]LogPlayLevel: Creating play world package: /Game/MyGame/Map/UEDPIE_0_MainMenu
+[2025.08.28-11.43.32:009][203]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000988s)
+[2025.08.28-11.43.32:009][203]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyGame/Map/MainMenu.MainMenu to /Game/MyGame/Map/UEDPIE_0_MainMenu.MainMenu (0.001014s)
+[2025.08.28-11.43.32:026][203]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.08.28-11.43.32:027][203]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2025.08.28-11.43.32:028][203]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/MyGame/Map/UEDPIE_0_MainMenu.MainMenu'.
+[2025.08.28-11.43.32:029][203]LogPlayLevel: PIE: World Init took: (0.001255s)
+[2025.08.28-11.43.32:029][203]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2025.08.28-11.43.32:029][203]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.28-11.43.32:030][203]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.28-11.43.32:030][203]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.28-11.43.32:030][203]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.28-11.43.32:030][203]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.28-11.43.32:030][203]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.28-11.43.32:030][203]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.28-11.43.32:030][203]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.28-11.43.32:030][203]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.28-11.43.32:030][203]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.28-11.43.32:030][203]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.28-11.43.32:031][203]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.28-11.43.32:045][203]LogAudioMixer: Display: Using Audio Hardware Device Lautsprecher (High Definition Audio Device)
+[2025.08.28-11.43.32:046][203]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.28-11.43.32:046][203]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.28-11.43.32:046][203]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.28-11.43.32:046][203]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2025.08.28-11.43.32:046][203]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2025.08.28-11.43.32:048][203]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2025.08.28-11.43.32:048][203]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2025.08.28-11.43.32:048][203]LogInit: FAudioDevice initialized with ID 16.
+[2025.08.28-11.43.32:048][203]LogAudio: Display: Audio Device (ID: 16) registered with world 'MainMenu'.
+[2025.08.28-11.43.32:048][203]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2025.08.28-11.43.32:051][203]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.08.28-11.43.32:052][203]LogWorld: Bringing World /Game/MyGame/Map/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2025.08.28-13.43.32
+[2025.08.28-11.43.32:052][203]LogWorld: Bringing up level for play took: 0.000350
+[2025.08.28-11.43.32:054][203]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2025.08.28-11.43.32:056][203]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(968)]!
+[2025.08.28-11.43.32:056][203]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.08.28-11.43.32:056][203]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.08.28-11.43.32:057][203]PIE: Server logged in
+[2025.08.28-11.43.32:058][203]PIE: Play in editor total start time 0,05 seconds.
+[2025.08.28-11.43.44:595][ 99]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.28-11.43.44:595][ 99]LogWorld: BeginTearingDown for /Game/MyGame/Map/UEDPIE_0_MainMenu
+[2025.08.28-11.43.44:595][ 99]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.08.28-11.43.44:595][ 99]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.28-11.43.44:599][ 99]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.28-11.43.44:604][ 99]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.28-11.43.44:620][ 99]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.28-11.43.44:620][ 99]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2025.08.28-11.43.44:621][ 99]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2025.08.28-11.43.44:622][ 99]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2025.08.28-11.43.44:629][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.08.28-11.43.44:699][100]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2025.08.28-11.44.11:858][270]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7646.989258
+[2025.08.28-11.44.12:861][273]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.28-11.44.12:861][273]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7647.654297, Update Interval: 338.579681
+[2025.08.28-11.45.15:017][299]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MyGame/UI/WBP_MainMenu.WBP_MainMenu
+[2025.08.28-11.45.15:018][299]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_30
+[2025.08.28-11.45.15:018][299]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_30'.
+[2025.08.28-11.45.15:024][299]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_31
+[2025.08.28-11.45.15:024][299]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_31'.
+[2025.08.28-11.46.27:630][503]LogEditorTransaction: Undo Move Widget
+[2025.08.28-11.46.28:252][520]LogEditorTransaction: Undo Add Widget
+[2025.08.28-11.46.37:573][580]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.08.28-11.47.04:173][518]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.08.28-11.47.04:177][518]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.28-11.47.04:212][518]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyGame/Character/BP_PuddingPrincess] ([2] browsable assets)...
+[2025.08.28-11.47.04:230][518]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MyGame/Character/BP_PuddingPrincess.BP_PuddingPrincess]
+[2025.08.28-11.47.04:230][518]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyGame/Character/BP_PuddingPrincess]
+[2025.08.28-11.47.04:230][518]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyGame/Character/BP_PuddingPrincess" FILE="../../../../../FH/5.semester/Game dev/SweetTale/SweetTale/Content/MyGame/Character/BP_PuddingPrincess.uasset" SILENT=true
+[2025.08.28-11.47.04:249][518]LogSavePackage: Moving output files for package: /Game/MyGame/Character/BP_PuddingPrincess
+[2025.08.28-11.47.04:249][518]LogSavePackage: Moving '../../../../../FH/5.semester/Game dev/SweetTale/SweetTale/Saved/BP_PuddingPrincess253DDBAC46EDA9C8F72DE99422ED3978.tmp' to '../../../../../FH/5.semester/Game dev/SweetTale/SweetTale/Content/MyGame/Character/BP_PuddingPrincess.uasset'
+[2025.08.28-11.47.04:250][518]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MyGame/UI/WBP_MainMenu] ([2] browsable assets)...
+[2025.08.28-11.47.04:252][518]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/MyGame/UI/WBP_MainMenu.WBP_MainMenu]
+[2025.08.28-11.47.04:252][518]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyGame/UI/WBP_MainMenu]
+[2025.08.28-11.47.04:252][518]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyGame/UI/WBP_MainMenu" FILE="../../../../../FH/5.semester/Game dev/SweetTale/SweetTale/Content/MyGame/UI/WBP_MainMenu.uasset" SILENT=true
+[2025.08.28-11.47.04:261][518]LogSavePackage: Moving output files for package: /Game/MyGame/UI/WBP_MainMenu
+[2025.08.28-11.47.04:262][518]LogSavePackage: Moving '../../../../../FH/5.semester/Game dev/SweetTale/SweetTale/Saved/WBP_MainMenu10E1910B4C083621115299B929119278.tmp' to '../../../../../FH/5.semester/Game dev/SweetTale/SweetTale/Content/MyGame/UI/WBP_MainMenu.uasset'
+[2025.08.28-11.47.04:268][518]LogFileHelpers: InternalPromptForCheckoutAndSave took 90.515 ms (total: 1.55 sec)
+[2025.08.28-11.47.04:311][518]LogContentValidation: Display: Starting to validate 2 assets
+[2025.08.28-11.47.04:311][518]LogContentValidation: Enabled validators:
+[2025.08.28-11.47.04:311][518]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.28-11.47.04:311][518]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.28-11.47.04:311][518]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.28-11.47.04:311][518]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.28-11.47.04:311][518]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.28-11.47.04:311][518]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.28-11.47.04:312][518]AssetCheck: /Game/MyGame/Character/BP_PuddingPrincess Validating asset
+[2025.08.28-11.47.04:312][518]AssetCheck: /Game/MyGame/UI/WBP_MainMenu Validating asset
+[2025.08.28-11.48.19:525][750]LogEditorTransaction: Undo Add Widget
+[2025.08.28-11.48.30:728][945]LogEditorTransaction: Undo Move Widget
+[2025.08.28-11.49.04:281][349]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.08.28-11.49.05:740][494]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.28-11.49.05:750][494]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.28-11.49.05:750][494]LogPlayLevel: Creating play world package: /Game/MyGame/Map/UEDPIE_0_MainMenu
+[2025.08.28-11.49.05:751][494]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000980s)
+[2025.08.28-11.49.05:751][494]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyGame/Map/MainMenu.MainMenu to /Game/MyGame/Map/UEDPIE_0_MainMenu.MainMenu (0.001008s)
+[2025.08.28-11.49.05:769][494]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.08.28-11.49.05:771][494]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2025.08.28-11.49.05:772][494]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/MyGame/Map/UEDPIE_0_MainMenu.MainMenu'.
+[2025.08.28-11.49.05:773][494]LogPlayLevel: PIE: World Init took: (0.001349s)
+[2025.08.28-11.49.05:773][494]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2025.08.28-11.49.05:773][494]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.28-11.49.05:774][494]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.28-11.49.05:774][494]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.28-11.49.05:774][494]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.28-11.49.05:774][494]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.28-11.49.05:774][494]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.28-11.49.05:774][494]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.28-11.49.05:774][494]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.28-11.49.05:774][494]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.28-11.49.05:774][494]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.28-11.49.05:774][494]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.28-11.49.05:776][494]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.28-11.49.05:790][494]LogAudioMixer: Display: Using Audio Hardware Device Lautsprecher (High Definition Audio Device)
+[2025.08.28-11.49.05:791][494]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.28-11.49.05:791][494]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.28-11.49.05:791][494]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.28-11.49.05:791][494]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2025.08.28-11.49.05:791][494]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2025.08.28-11.49.05:793][494]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2025.08.28-11.49.05:793][494]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2025.08.28-11.49.05:793][494]LogInit: FAudioDevice initialized with ID 17.
+[2025.08.28-11.49.05:793][494]LogAudio: Display: Audio Device (ID: 17) registered with world 'MainMenu'.
+[2025.08.28-11.49.05:793][494]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2025.08.28-11.49.05:834][494]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.28-11.49.05:834][494]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.08.28-11.49.05:835][494]LogWorld: Bringing World /Game/MyGame/Map/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2025.08.28-13.49.05
+[2025.08.28-11.49.05:835][494]LogWorld: Bringing up level for play took: 0.000447
+[2025.08.28-11.49.05:837][494]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2025.08.28-11.49.05:838][494]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.08.28-11.49.05:840][494]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(968)]!
+[2025.08.28-11.49.05:840][494]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.08.28-11.49.05:840][494]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.08.28-11.49.05:843][494]PIE: Server logged in
+[2025.08.28-11.49.05:844][494]PIE: Play in editor total start time 0,095 seconds.
+[2025.08.28-11.49.13:575][795]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.28-11.49.13:575][795]LogWorld: BeginTearingDown for /Game/MyGame/Map/UEDPIE_0_MainMenu
+[2025.08.28-11.49.13:575][795]LogSlate: Window 'Sweet Tale Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.08.28-11.49.13:578][795]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.08.28-11.49.13:578][795]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.28-11.49.13:581][795]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.28-11.49.13:587][795]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.28-11.49.13:603][795]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.28-11.49.13:603][795]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2025.08.28-11.49.13:603][795]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2025.08.28-11.49.13:604][795]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2025.08.28-11.49.13:610][795]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.08.28-11.49.13:681][796]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2025.08.28-11.49.53:677][968]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.28-11.49.53:687][968]LogPlayLevel: [PlayLevel] Compiling WBP_MainMenu before play...
+[2025.08.28-11.49.53:817][968]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.08.28-11.49.53:818][968]LogPlayLevel: PlayLevel: Blueprint regeneration took 132 ms (1 blueprints)
+[2025.08.28-11.49.53:818][968]LogPlayLevel: Creating play world package: /Game/MyGame/Map/UEDPIE_0_MainMenu
+[2025.08.28-11.49.53:819][968]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001008s)
+[2025.08.28-11.49.53:819][968]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyGame/Map/MainMenu.MainMenu to /Game/MyGame/Map/UEDPIE_0_MainMenu.MainMenu (0.001035s)
+[2025.08.28-11.49.53:836][968]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.08.28-11.49.53:837][968]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2025.08.28-11.49.53:838][968]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/MyGame/Map/UEDPIE_0_MainMenu.MainMenu'.
+[2025.08.28-11.49.53:838][968]LogPlayLevel: PIE: World Init took: (0.001353s)
+[2025.08.28-11.49.53:839][968]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2025.08.28-11.49.53:839][968]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.28-11.49.53:839][968]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.28-11.49.53:839][968]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.28-11.49.53:839][968]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.28-11.49.53:839][968]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.28-11.49.53:839][968]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.28-11.49.53:839][968]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.28-11.49.53:839][968]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.28-11.49.53:839][968]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.28-11.49.53:839][968]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.28-11.49.53:839][968]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.28-11.49.53:841][968]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.28-11.49.53:855][968]LogAudioMixer: Display: Using Audio Hardware Device Lautsprecher (High Definition Audio Device)
+[2025.08.28-11.49.53:855][968]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.28-11.49.53:855][968]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.28-11.49.53:855][968]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.28-11.49.53:856][968]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2025.08.28-11.49.53:856][968]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2025.08.28-11.49.53:858][968]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2025.08.28-11.49.53:858][968]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2025.08.28-11.49.53:858][968]LogInit: FAudioDevice initialized with ID 18.
+[2025.08.28-11.49.53:858][968]LogAudio: Display: Audio Device (ID: 18) registered with world 'MainMenu'.
+[2025.08.28-11.49.53:858][968]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2025.08.28-11.49.53:906][968]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.28-11.49.53:906][968]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.08.28-11.49.53:906][968]LogWorld: Bringing World /Game/MyGame/Map/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2025.08.28-13.49.53
+[2025.08.28-11.49.53:907][968]LogWorld: Bringing up level for play took: 0.000493
+[2025.08.28-11.49.53:909][968]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2025.08.28-11.49.53:909][968]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.08.28-11.49.53:912][968]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(968)]!
+[2025.08.28-11.49.53:912][968]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.08.28-11.49.53:912][968]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.08.28-11.49.53:914][968]PIE: Server logged in
+[2025.08.28-11.49.53:916][968]PIE: Play in editor total start time 0,231 seconds.
+[2025.08.28-11.50.03:975][442]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.28-11.50.03:975][442]LogWorld: BeginTearingDown for /Game/MyGame/Map/UEDPIE_0_MainMenu
+[2025.08.28-11.50.03:975][442]LogSlate: Window 'Sweet Tale Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.08.28-11.50.03:978][442]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.08.28-11.50.03:978][442]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.28-11.50.03:980][442]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.28-11.50.03:986][442]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.28-11.50.04:002][442]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2025.08.28-11.50.04:002][442]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2025.08.28-11.50.04:003][442]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2025.08.28-11.50.04:009][442]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.08.28-11.50.04:079][443]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2025.08.28-11.50.06:412][717]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.08.28-11.50.06:415][717]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.28-11.50.06:473][717]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MyGame/UI/WBP_MainMenu] ([2] browsable assets)...
+[2025.08.28-11.50.06:475][717]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/MyGame/UI/WBP_MainMenu.WBP_MainMenu]
+[2025.08.28-11.50.06:475][717]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyGame/UI/WBP_MainMenu]
+[2025.08.28-11.50.06:475][717]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyGame/UI/WBP_MainMenu" FILE="../../../../../FH/5.semester/Game dev/SweetTale/SweetTale/Content/MyGame/UI/WBP_MainMenu.uasset" SILENT=true
+[2025.08.28-11.50.06:485][717]LogSavePackage: Moving output files for package: /Game/MyGame/UI/WBP_MainMenu
+[2025.08.28-11.50.06:485][717]LogSavePackage: Moving '../../../../../FH/5.semester/Game dev/SweetTale/SweetTale/Saved/WBP_MainMenuF9F5F9134032DE1688BCB49EEE889CBC.tmp' to '../../../../../FH/5.semester/Game dev/SweetTale/SweetTale/Content/MyGame/UI/WBP_MainMenu.uasset'
+[2025.08.28-11.50.06:490][717]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.356 ms (total: 1.63 sec)
+[2025.08.28-11.50.06:540][717]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.28-11.50.06:540][717]LogContentValidation: Enabled validators:
+[2025.08.28-11.50.06:540][717]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.28-11.50.06:540][717]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.28-11.50.06:540][717]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.28-11.50.06:540][717]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.28-11.50.06:540][717]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.28-11.50.06:540][717]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.28-11.50.06:541][717]AssetCheck: /Game/MyGame/UI/WBP_MainMenu Validating asset
+[2025.08.28-11.50.25:211][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.08.28-11.50.48:548][652]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8043.587402
+[2025.08.28-11.50.49:557][655]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.28-11.50.49:557][655]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8044.250488, Update Interval: 309.684753
+[2025.08.28-11.53.08:646][357]LogSlate: External Image Picker: DecompressImage failed
+[2025.08.28-11.56.29:327][961]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8384.443359
+[2025.08.28-11.56.30:325][964]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.28-11.56.30:325][964]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8385.119141, Update Interval: 317.450470
+[2025.08.28-12.01.47:658][161]AssetReimport: 'D:/Michelle/FH/5.semester/Game dev/SweetTale/SweetTale/Content/Splash/Splash.bmp' has been created.
+[2025.08.28-12.01.47:658][161]AssetReimport: 'D:/Michelle/FH/5.semester/Game dev/SweetTale/SweetTale/Content/Splash/EdSplash.bmp' has been created.
+[2025.08.28-12.01.55:255][ 59]LogInterchangeEngine: [Pending] Importing
+[2025.08.28-12.01.55:265][ 59]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.08.28-12.01.55:265][ 59]LogInterchangeEngine: [Success] Import Done
+[2025.08.28-12.01.55:284][ 59]LogSlate: Took 0.000165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.08.28-12.01.55:357][ 60]LogInterchangeEngine: [Pending] Importing
+[2025.08.28-12.01.55:367][ 60]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.08.28-12.01.55:367][ 60]LogInterchangeEngine: [Success] Import Done
+[2025.08.28-12.01.57:904][282]LogSlate: Window 'Message Log' being destroyed
+[2025.08.28-12.01.57:911][282]LogSlate: Window 'Message Log' being destroyed
+[2025.08.28-12.02.38:700][108]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8754.135742
+[2025.08.28-12.02.38:850][126]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.28-12.02.38:850][126]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8754.277344, Update Interval: 357.456604
+[2025.08.28-12.03.36:838][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.08.28-12.03.36:843][ 55]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.28-12.03.36:882][ 55]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Splash/Splash] ([1] browsable assets)...
+[2025.08.28-12.03.36:883][ 55]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Splash/Splash.Splash]
+[2025.08.28-12.03.36:883][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/Splash/Splash]
+[2025.08.28-12.03.36:883][ 55]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Splash/Splash" FILE="../../../../../FH/5.semester/Game dev/SweetTale/SweetTale/Content/Splash/Splash.uasset" SILENT=true
+[2025.08.28-12.03.36:891][ 55]LogSavePackage: Moving output files for package: /Game/Splash/Splash
+[2025.08.28-12.03.36:891][ 55]LogSavePackage: Moving '../../../../../FH/5.semester/Game dev/SweetTale/SweetTale/Saved/Splash0BF4E1F84561B4162DB63EB1F93D2D3E.tmp' to '../../../../../FH/5.semester/Game dev/SweetTale/SweetTale/Content/Splash/Splash.uasset'
+[2025.08.28-12.03.36:892][ 55]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Splash/EdSplash] ([1] browsable assets)...
+[2025.08.28-12.03.36:894][ 55]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Splash/EdSplash.EdSplash]
+[2025.08.28-12.03.36:894][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/Splash/EdSplash]
+[2025.08.28-12.03.36:894][ 55]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Splash/EdSplash" FILE="../../../../../FH/5.semester/Game dev/SweetTale/SweetTale/Content/Splash/EdSplash.uasset" SILENT=true
+[2025.08.28-12.03.36:900][ 55]LogSavePackage: Moving output files for package: /Game/Splash/EdSplash
+[2025.08.28-12.03.36:900][ 55]LogSavePackage: Moving '../../../../../FH/5.semester/Game dev/SweetTale/SweetTale/Saved/EdSplashEAEB9AE44C92DCC7D3AB31AABB3189B8.tmp' to '../../../../../FH/5.semester/Game dev/SweetTale/SweetTale/Content/Splash/EdSplash.uasset'
+[2025.08.28-12.03.36:906][ 55]LogFileHelpers: InternalPromptForCheckoutAndSave took 63.638 ms (total: 1.69 sec)
+[2025.08.28-12.03.36:966][ 55]LogContentValidation: Display: Starting to validate 2 assets
+[2025.08.28-12.03.36:966][ 55]LogContentValidation: Enabled validators:
+[2025.08.28-12.03.36:966][ 55]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.28-12.03.36:966][ 55]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.28-12.03.36:966][ 55]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.28-12.03.36:966][ 55]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.28-12.03.36:966][ 55]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.28-12.03.36:966][ 55]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.28-12.03.36:966][ 55]AssetCheck: /Game/Splash/Splash Validating asset
+[2025.08.28-12.03.36:966][ 55]AssetCheck: /Game/Splash/EdSplash Validating asset
+[2025.08.28-12.03.41:036][528]LogSlate: Window 'Project Settings' being destroyed
+[2025.08.28-12.03.41:041][528]LogSlate: Window 'Project Settings' being destroyed
