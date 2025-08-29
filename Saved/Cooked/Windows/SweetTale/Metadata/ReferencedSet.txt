@@ -313,7 +313,7 @@
 /Game/MyGame/Environment/BP_Collectable
 /Game/MyGame/Environment/BP_FlyingMesh
 /Game/MyGame/Environment/BP_LevelEnd
-/Game/MyGame/Environment/BP_Rope2
+/Game/MyGame/Environment/BP_Rope
 /Game/MyGame/Environment/BP_TutorialText
 /Game/MyGame/Environment/NS_AmbientParticles
 /Game/MyGame/Environment/SM_Baum
@@ -342,7 +342,7 @@
 /Game/MyGame/Sound/S_GameEnd
 /Game/MyGame/Sound/S_Jump
 /Game/MyGame/Sound/S_KeyCollect
-/Game/MyGame/Sound/S_Poof
+/Game/MyGame/Sound/S_Spawn
 /Game/MyGame/Sound/SClass_Music
 /Game/MyGame/Sound/SClass_SFX
 /Game/MyGame/Sound/SMC_Master
@@ -357,7 +357,7 @@
 /Game/MyGame/Textures/MI_CloudPlatform
 /Game/MyGame/Textures/MI_Cola
 /Game/MyGame/Textures/MI_CubeTree_Cyan
-/Game/MyGame/Textures/MI_CubeTree_Green2
+/Game/MyGame/Textures/MI_CubeTree_Green
 /Game/MyGame/Textures/MI_CubeTree_Pink
 /Game/MyGame/Textures/MI_CubeTree_Yellow
 /Game/MyGame/Textures/MI_DirtBlock
@@ -445,12 +445,6 @@
 /Game/MyGame/Textures/TC_Cubemap
 /Game/MyGame/UI/CherryBombOne-Regular
 /Game/MyGame/UI/CherryBombOne_Font
-/Game/MyGame/UI/T_ArrowButton_Hover_left
-/Game/MyGame/UI/T_ArrowButton_Hover_right
-/Game/MyGame/UI/T_ArrowButton_Normal_left
-/Game/MyGame/UI/T_ArrowButton_Normal_right
-/Game/MyGame/UI/T_ArrowButton_Pressed_left
-/Game/MyGame/UI/T_ArrowButton_Pressed_right
 /Game/MyGame/UI/T_Button_Hover
 /Game/MyGame/UI/T_Button_Normal
 /Game/MyGame/UI/T_Button_Pressed
